@@ -1,19 +1,18 @@
 * {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Verdana;
 }
-
 
 h1 {
-  color: SeaGreen;
+  color: MediumAquamarine;
+  font-size: 14px;
+  
 }
 
-
-p, 
-li {
-  font-size: 18px;
+.header {
+  display: flex;
 }
 
+li{
+  display: inline-flex;
 
-a {
-  text-decoration: none;
 }
